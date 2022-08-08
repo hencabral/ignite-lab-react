@@ -1,10 +1,16 @@
 # ignite-lab-react
 
-Hospedado na vercel.com
+<p>Hospedado na vercel.com</p>
 
-Algumas tecnologia utilizadas
+<p>Algumas tecnologia utilizadas</p>
 
-GraphCMS = O GraphCMS oferece APIs de conteúdo GraphQL instantâneas;
-GraphQl Code Generator = ferramenta que gera código a partir do seu esquema GraphQL;
-TailwindCss = 
-Vite =
+
+<p>GraphCMS = O GraphCMS oferece APIs de conteúdo GraphQL instantâneas;</p>
+<p>GraphQl Code Generator = ferramenta que gera código a partir do seu esquema GraphQL;</p>
+<p>TailwindCss =</p>
+<p>Vite =</p>
+
+
+
+
+
